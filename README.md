@@ -1,2 +1,3 @@
 # ccx-flash-cards
-spin up of the Conceal-flash-card
+same Conceal-flash-card from https://github.com/Acktarius/conceal-flash-cards  
+with an Electon Forge approach  
