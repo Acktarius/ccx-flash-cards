@@ -23,7 +23,7 @@ module.exports = {
           icon: './src/icon/icon.png'
         }
 
-      },
+      },   
     }
   ],
   plugins: [
